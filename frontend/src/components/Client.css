@@ -1,0 +1,29 @@
+.card__title {
+  color: #900c3f;
+}
+
+.container__buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.button {
+  margin-right: 10px;
+  background-color: #900c3f;
+  border-color: #900c3f;
+}
+
+.item {
+  font-weight: bold;
+  margin-right: 5px
+}
+
+.container__item {
+  display: flex;
+  flex-direction: row;
+}
+
+.clients {
+  width: 90%;
+}
