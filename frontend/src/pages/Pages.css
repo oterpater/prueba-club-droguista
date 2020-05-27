@@ -19,4 +19,7 @@
 .main {
   width: 75%;
   padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
