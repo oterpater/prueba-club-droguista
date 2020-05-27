@@ -1,0 +1,27 @@
+.aside {
+  width: 25%;
+  border-right: solid;
+  border-color: #D4D5D4;
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+.link {
+  width: 100%;
+  height: 50px;
+  text-align: left;
+  padding-top: 12px;
+  padding-left: 30px;
+  margin-top: 10px
+}
+
+.link__text {
+  color: grey;
+}
+
+.span {
+  width: 80%;
+  height: 1px;
+  background-color: #D4D5D4;
+}
